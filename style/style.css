@@ -1,0 +1,27 @@
+.a{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.btn{
+    background-color: rgb(243, 86, 117);
+    color: aliceblue;
+    border: none;
+    border-radius: 7px;
+    padding: 10px;
+}
+.b{
+   margin-left: 120px;
+   margin-top: 70px;
+}
+.c{
+    text-align: center;
+}
+.cc{
+    font-size: small;
+}
+.d{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+}
