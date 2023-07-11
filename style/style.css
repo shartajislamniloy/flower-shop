@@ -55,3 +55,9 @@
     background-color: rgb(19, 9, 9);
     height: 250px;
 }
+.k{
+    margin-top: 50px;
+    background-image: linear-gradient(rgb(66, 133, 180),rgb(170, 50, 162));
+    width: 70%;
+    margin-left: 200px;
+}   
